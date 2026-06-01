@@ -1,41 +1,5 @@
 
 
-
-          
-让我深入查看图三元组打分机制的完整代码：
-
-        
-            
-toolName: view_files
-            
-status: success
-          
-            
-filePath: /home/project/cognee/cognee/modules/graph/cognee_graph/CogneeGraph.py
-          
-
-        
-            
-toolName: search_by_regex
-            
-status: success
-          
-query: calculate_top_triplet|map_vector_distances|vector_distance|importance_weight
-          
-
-        
-            
-toolName: view_files
-            
-status: success
-          
-            
-filePath: /home/project/cognee/cognee/modules/graph/cognee_graph/CogneeGraphElements.py
-          
-现在我对图三元组打分机制有了完整的理解，下面是详细分析：
-
----
-
 ## 📐 图三元组打分机制详解
 
 ### 核心概念
